@@ -4,7 +4,7 @@ Submitted by: **Pamela Mensah**
 
 Estimated time spent: **12** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site]()
 
 ### Application Features
 
@@ -73,9 +73,9 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
   - [ ] *Note*: You do not have to collect and save the data submitted using the form. 
 
-- [x] **Deployment**
-  - [x] Deploy your website so it's accessible to the public outside of your local machine. 
-  - [x] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
+- [] **Deployment**
+  - [] Deploy your website so it's accessible to the public outside of your local machine. 
+  - [] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
 - [x] **Custom Styling**: Add a personal touch to your site's design.
   - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
@@ -85,26 +85,26 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+`<div style="position: relative; padding-bottom: 64.5933014354067%; height: 0;"><iframe src="https://www.loom.com/embed/623eb3ab36394e989e3edfb892f00704?sid=ef1c801f-21c4-40c0-b05b-8176461a5550" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Whilst the labs did prepare us, I found myelf having to do a lot of outside research to complete the basic features required.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
-Add your response here
+
+If I had more time, I would definitley add more to the home page and add more transition and hover effects.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Honestly for my first project I am quite happy with how everything turned out. The website turned out how I envisioned it aesthetically.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- w3schools.com.
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shoutout to Devarsh and Lucia for all their help this week!!!
