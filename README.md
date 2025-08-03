@@ -4,7 +4,7 @@ Submitted by: **Pamela Mensah**
 
 Estimated time spent: **12** hours spent in total
 
-**Deployed Application:** [exploreireland.netlify.app](https://exploreireland.netlify.app) 
+**Deployed Application:** [GlobeTrotter]https://exploreireland.netlify.app) 
 
 ### Application Features
 
